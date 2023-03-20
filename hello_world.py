@@ -1,2 +1,2 @@
-import main
-print(main.add(1, 2))
+import hello_world
+print(hello_world.add(1, 2))
