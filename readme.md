@@ -7,7 +7,7 @@ this micro project is about get-it-going 'python extension in the debugger' - cl
 
 yet again, as in years past, cmake ends up being the way - rather than setuptools, pyproject.toml, other 'web-dev' stuff - in particular - 
 
-- pyproject.toml is a major show-stopper - it's causing the build to happen in a 'hidden virtual environment' - end result - debugger can't see breakpoints set in the .cpp file. probably fixable - why waste time fixing something like this?
-- without cmake, it's hard to insure the build is in debug mode - with cmake, it's simple.
+- pyproject.toml / setuptools are a major show-stopper - the build's happening in some kind of 'hidden virtual environment' - end result - debugger can't see breakpoints set in the .cpp file. probably fixable - why waste time fixing something like this?
+- without cmake, it's hard to know the build is in debug mode - with cmake, it's simple.
 
-in a nutshell - old school caveman c style - not 'web-dev' style.
+in a nutshell - old school caveman style - not 'web-dev' style.
