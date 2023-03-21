@@ -1,6 +1,6 @@
 ![intro](./docs/intro.png)
 
-this micro project is about get-it-going 'python extension in the debugger' - clion and pybind11 are used - links to begin further explorations are - 
+micro project around get-it-going 'python extension in the debugger' - we've been doing this for many years now, good to keep the instincts warm - also good to periodically come in with 'beginners mind' to see what the current state of the art is - clion and pybind11 are used here - links to begin further explorations are - 
 
 - https://www.jetbrains.com/help/clion/debugging-python-extensions.html 
 - https://pybind11.readthedocs.io/en/stable/compiling.html#building-with-cmake 
